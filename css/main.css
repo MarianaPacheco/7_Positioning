@@ -1,0 +1,35 @@
+
+.caja{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+
+#rosa{
+	background-color: #ee3e64;
+	left: 0px;
+	top: 0px;
+}
+
+#azul{
+	background-color: #032c73;
+	right: 0px;
+	top: 0px;
+}
+
+#verde{
+	background-color: #b7d84b;
+	left: 0px;
+	bottom: 0px;
+}
+
+#morado{
+	background-color: #650373;
+	right: 0px;
+	bottom: 0px;
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
